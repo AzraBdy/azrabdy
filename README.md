@@ -3,7 +3,61 @@
 👩🏽‍🎓 MIS student </br>
 👩🏼‍💻 I’m a junior developer who loves coding </br>
 
+I'm a recent Management Information Systems graduate and a junior software developer who enjoys building web applications and turning ideas into real, usable products.
 
+I mostly work with React, TypeScript, Node.js, Express.js, and PostgreSQL, with a background in C#/.NET. I've also worked on projects involving AI, LLM integrations, and educational technologies.
+
+I like experimenting with different technologies, learning by building, and creating projects that are both functional and a little different from the usual.
+
+## 🚀 Projects
+
+Here are some of the projects I've worked on. I'll be adding more of my older and ongoing projects here soon.
+
+### 🎓 Pergen — AI-Powered Study Assistant
+An AI-powered study assistant designed to help students organize their learning process and receive personalized study suggestions. It includes features based on learning techniques such as Pomodoro, Active Recall, Spaced Repetition, Feynman, SQ3R, and Leitner System.
+
+**Tech:** React, Node.js, Express.js, PostgreSQL, Tailwind CSS, OpenAI API, i18next
+
+---
+
+### 🎬 Movie Matcher
+A web application that helps people find movies together. Users can create or join shared rooms, swipe through movies, and discover matches based on their preferences.
+
+**Tech:** React, TypeScript, Firebase, TMDB API
+
+---
+
+### 💬 AI Customer Service Chatbot
+A chatbot interface developed during my internship for a logistics company. The project involved working with LLM-based features using DeepSeek and GPT, as well as building parts of the user interface and customer service panel.
+
+**Tech:** React, JavaScript, LLM APIs, WebSocket
+
+---
+
+### 📝 Admin & Blog Management Panel
+A full-stack administration and blog management system developed during my internship. It includes role-based access for administrators, editors, and writers, along with content management and CRUD operations.
+
+**Tech:** React, Node.js, Express.js, PostgreSQL, Axios
+
+---
+
+### 🏥 Clinic Consulting & Personnel Automation
+A desktop application developed to manage personnel and client-related processes for a clinic. The application includes data management and database operations.
+
+**Tech:** C#, SQL
+
+---
+
+### 🎨 Art Studio Financial Tracking Automation
+A desktop application developed to manage financial records and related operations for an art studio.
+
+**Tech:** C#, SQL
+
+---
+
+### 🔜 More Projects Coming Soon
+
+I'm currently adding more of my previous projects and experiments to this profile, including smaller applications, university projects, and projects I've built while learning new technologies.
 
 
 ## 🌐 Socials:
