@@ -14,7 +14,7 @@ I like experimenting with different technologies, learning by building, and crea
 Here are some of the projects I've worked on. I'll be adding more of my older and ongoing projects here soon.
 
 ### 🎓 Pergen — AI-Powered Study Assistant
-An AI-powered study assistant designed to help students organize their learning process and receive personalized study suggestions. It includes features based on learning techniques such as Pomodoro, Active Recall, Spaced Repetition, Feynman, SQ3R, and Leitner System.
+An AI-powered study assistant designed to help students organize their learning process and receive personalized study suggestions. 
 
 **Tech:** React, Node.js, Express.js, PostgreSQL, Tailwind CSS, OpenAI API, i18next
 
